@@ -91,7 +91,7 @@ export function Testimonials(){
 
         <div className='testimonial'>
             
-            <div className='testiUp'>
+            <div className='testiUp'> 
                 <img src='https://xsgames.co/randomusers/assets/avatars/male/77.jpg' />
                 <div className='testiUpCol'>
                     <h2> winne powers </h2>
